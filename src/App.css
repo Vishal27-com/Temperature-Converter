@@ -1,1 +1,14 @@
- 
+body{
+    margin: 0;
+    padding: 0;
+  }
+  .App {
+    font-family: sans-serif;
+    border: 1px solid black;
+    background: #000;
+    height: 100vh;
+  }
+  .App>h2{
+  text-align: center;
+  color: #fff;
+  }
